@@ -1,0 +1,26 @@
+html{
+    font-size: 10px;
+}
+
+body {
+    text-align: center;
+    line-height: 1.5;
+    margin: 0;
+    font-size: medium;
+}
+img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+}
+blockquote {
+    font-style: italic;
+    text-align: left;
+}
